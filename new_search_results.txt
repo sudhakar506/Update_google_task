@@ -1,0 +1,10 @@
+1. pytest documentation
+2. Get Started
+3. Full pytest documentation
+4. How-to guides
+5. How to invoke pytest
+6. Helps you write better programs
+7. pytest
+8. Effective Python Testing With Pytest
+9. Pytest Tutorial
+10. Testing Python Applications with Pytest - Semaphore Tutorial
